@@ -1,0 +1,31 @@
+/*CSS for styling the navigation */
+nav{
+    background-color: yellow;
+    color: red;
+    padding: 10px;
+} 
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: red;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+section{
+    padding: 20px;
+}
+footer{
+    background-color: brown;
+    color: cornsilk;
+    text-align: center;
+    padding: 10px 0;
+}
